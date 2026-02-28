@@ -1,14 +1,14 @@
-# Hi, I'm Santosh 👋
+# Hi, I'm Santosh
 
-I'm a CS student from Tamil Nadu who got pulled into the world of AI for no particular reason — and honestly, I haven't looked back since. Every new model drop, every breakthrough, every tiny advancement in this field genuinely excites me in a way I can't really explain.
+For some unknown reason I've been getting an insane interest in AI — and I've been fascinated by every new model that comes out and the advancements we've been getting in such a small span of time.
 
-I can't stop wondering. I can't stop building.
+Can't stop wondering. Can't stop building.
 
-I'm not into building things just for the sake of it — I care about stuff that actually works, for me or for the people around me. Whether it's an AI tool, a mobile app, or some ML model that makes someone's life a little easier — that's what keeps me going.
+I'm more into creating things that could actually work — for me or for the people around me. And I'm genuinely enjoying every bit of it.
 
-If you take one thing away from my profile:
+If you can take away one thing from this:
 
-> *"Don't Let Your Curiosity Die."*
+> Don't Let Your Curiosity Die.
 
 ## 🌐 Socials:
 
