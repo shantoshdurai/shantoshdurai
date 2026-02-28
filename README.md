@@ -1,10 +1,14 @@
-# 🚀 About Me:
+# Hi, I'm Santosh 👋
 
-🎯 Aspiring AI/ML Developer & Full-Stack Enthusiast
-🤖 Passionate about Artificial Intelligence, Machine Learning & Agri-Tech Solutions
-🌾 Building an AI-powered Inventory Forecasting Model for MSMEs (TN Impact Hackathon)
-🌱 Always learning and exploring new technologies
-🔥 Currently focused on Flutter, Python (ML/AI), and building real-world AI applications
+I'm a CS student from Tamil Nadu who got pulled into the world of AI for no particular reason — and honestly, I haven't looked back since. Every new model drop, every breakthrough, every tiny advancement in this field genuinely excites me in a way I can't really explain.
+
+I can't stop wondering. I can't stop building.
+
+I'm not into building things just for the sake of it — I care about stuff that actually works, for me or for the people around me. Whether it's an AI tool, a mobile app, or some ML model that makes someone's life a little easier — that's what keeps me going.
+
+If you take one thing away from my profile:
+
+> *"Don't Let Your Curiosity Die."*
 
 ## 🌐 Socials:
 
