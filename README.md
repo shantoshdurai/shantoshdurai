@@ -1,44 +1,43 @@
-# ⚡ SANTOSH DURAI 
-**AI / ML DEVELOPER // BUILDING THINGS THAT MATTER**
-> █ "Don't Let Your Curiosity Die." █
+<div align="center">
+  
+# Hi, I'm Santosh 👋
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=AI+%2F+ML+Developer;Building+Things+That+Matter;Don't+Let+Your+Curiosity+Die)](https://git.io/typing-svg)
 
-## 🚀 THE LAB / ABOUT ME
-For some unknown reason I've been getting an insane interest in **Artificial Intelligence** — fascinated by every new model that comes out and the rapid advancements we've been getting. I can't stop wondering, and I can't stop building. My focus is on creating tools that **actually work** in the real world.
+<p align="center">
+  For some unknown reason I've been getting an insane interest in <b>Artificial Intelligence</b> — fascinated by every new model that comes out and the rapid advancements we've been getting. I can't stop wondering, and I can't stop building. My focus is on creating tools that <b>actually work</b> in the real world.
+</p>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santoshp123)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=Dribbble&logoColor=white)](https://shantoshdurai.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santoshp123steam@gmail.com)
 
-## 🛠️ TECH STACK 
+<br />
 
-### 🌐 LANGUAGES
-![Python](https://img.shields.io/badge/PYTHON-fde047?style=for-the-badge&logo=python&logoColor=121212&labelColor=f9a8d4)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-fde047?style=for-the-badge&logo=javascript&logoColor=121212&labelColor=93c5fd)
-![Dart](https://img.shields.io/badge/DART-fde047?style=for-the-badge&logo=dart&logoColor=121212&labelColor=86efac)
-![Kotlin](https://img.shields.io/badge/KOTLIN-fde047?style=for-the-badge&logo=kotlin&logoColor=121212&labelColor=c084fc)
+## ⚡ Tech Stack
 
-### 🗄️ DATABASES
-![MongoDB](https://img.shields.io/badge/MONGODB-fdfaf6?style=for-the-badge&logo=mongodb&logoColor=4ea94b&labelColor=121212)
-![SQLite](https://img.shields.io/badge/SQLITE-fdfaf6?style=for-the-badge&logo=sqlite&logoColor=07405e&labelColor=121212)
-![Firebase](https://img.shields.io/badge/FIREBASE-fdfaf6?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=121212)
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7D054" />
+<br />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<br />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
 
-### 📱 WEB & MOBILE
-![Flutter](https://img.shields.io/badge/FLUTTER-93c5fd?style=for-the-badge&logo=Flutter&logoColor=121212&labelColor=121212)
-![Android](https://img.shields.io/badge/ANDROID-86efac?style=for-the-badge&logo=android&logoColor=121212&labelColor=121212)
-![React](https://img.shields.io/badge/REACT-c084fc?style=for-the-badge&logo=react&logoColor=121212&labelColor=121212)
+<br /><br />
 
-### 🤖 AI & ML
-![TensorFlow](https://img.shields.io/badge/TENSORFLOW-f9a8d4?style=for-the-badge&logo=TensorFlow&logoColor=121212&labelColor=121212)
-![LangChain](https://img.shields.io/badge/LANGCHAIN-fde047?style=for-the-badge&logo=chainlink&logoColor=121212&labelColor=121212)
+## 📊 GitHub Stats
 
----
+<a href="https://github.com/shantoshdurai">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shantoshdurai&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/shantoshdurai">
+  <img height="180em" src="https://streak-stats.demolab.com?user=shantoshdurai&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</a>
 
-## 📡 CONNECT & ACTIVITY
-
-### 🔗 LINKS
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-93c5fd?style=for-the-badge&logo=Dribbble&logoColor=121212&labelColor=121212)](https://shantoshdurai.github.io)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-f9a8d4?style=for-the-badge&logo=linkedin&logoColor=121212&labelColor=121212)](https://www.linkedin.com/in/santoshp123)
-
-### 📊 STATS
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shantoshdurai&show_icons=true&bg_color=fdfaf6&border_color=121212&title_color=121212&text_color=121212&icon_color=f9a8d4&border_radius=0)](https://github.com/shantoshdurai)
-[![GitHub Streak](https://streak-stats.demolab.com?user=shantoshdurai&background=fdfaf6&border=121212&stroke=121212&ring=fde047&fire=f9a8d4&currStreakNum=121212&currStreakLabel=121212&sideNums=121212&sideLabels=121212&dates=121212&border_radius=0)](https://git.io/streak-stats)
+</div>
