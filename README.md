@@ -2,81 +2,57 @@
 
 For some unknown reason I've been getting an insane interest in AI — and I've been fascinated by every new model that comes out and the advancements we've been getting in such a small span of time.
 
- Can't stop wondering. Can't stop building.
+Can't stop wondering. Can't stop building.
 
- I'm more into creating things that could actually work — for me or for the people around me. And I'm genuinely enjoying every bit of it.
+I'm more into creating things that could actually work — for me or for the people around me. And I'm genuinely enjoying every bit of it.
 
- If you can take away one thing from this:
-
+If you can take away one thing from this:
 
 > Don't Let Your Curiosity Die.
 
+---
 
-## 🌐 Socials:
+### What I'm building
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santoshp123)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://shantoshdurai.github.io)
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [**ClassNow**](https://github.com/shantoshdurai/ClassNow-app) | AI-powered university class management | Flutter · Firebase · Gemini |
+| [**GhostTalker**](https://github.com/shantoshdurai/GhostTalker) | Voice cloning & TTS — talk to anyone | Python · XTTS · Flask |
+| [**University Chatbot**](https://github.com/shantoshdurai/university-chatbot-langchain) | RAG chatbot for university docs | LangChain · Ollama · llama3.1 |
+| [**Demand Forecasting**](https://github.com/shantoshdurai/ai-inventory-demand-forecasting) | ML demand prediction for MSMEs | XGBoost · Prophet · Streamlit |
+| [**SyncRGB**](https://github.com/shantoshdurai/SyncRGB-Ambient-Light) | Real-time ambient lighting from your screen | Python · WebSocket |
+| [**FluxTube**](https://github.com/shantoshdurai/fluxtube) | YouTube video creation tool | Python · Flask |
 
+---
 
-## 🌱 Currently Learning:
+### Tech I work with
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+**Languages**&ensp; ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
+**AI / ML**&ensp; ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-# 💻 Tech Stack:
+**Mobile & Web**&ensp; ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-### 🌐 Languages:
+**Tools**&ensp; ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=flat-square&logo=jupyter&logoColor=white)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+---
 
+### Currently learning
 
-### 🗄️ Databases:
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white) ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-764ABC?style=flat-square&logo=openai&logoColor=white)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+---
 
+### Stats
 
-### 📱 Mobile & Web Development:
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=shantoshdurai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shantoshdurai&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+---
 
+### Connect
 
-### 🤖 AI & ML Libraries:
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-
-### 🛠️ Tools & Platforms:
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-
-
-## 📊 GitHub Stats:
-
-[![GitHub Streak](https://git.io/streak-stats)](https://git.io/streak-stats)
-
-
-## 🚀 Currently Building:
-
-- **ClassNow** — AI-powered university class management app (Flutter + Firebase + Gemini)
-- **AI Inventory Demand Forecasting** — ML-based demand prediction for MSMEs (Python)
-- **React Portfolio** — Personal portfolio site built with React
-
-> Last updated: March 17, 2026
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santoshp123)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://shantoshdurai.github.io)
