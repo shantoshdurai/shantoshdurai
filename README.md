@@ -1,40 +1,39 @@
-<h1 align="center">Hi, I'm Santosh 👋</h1>
-<h3 align="center">CS Student | AI/ML Developer</h3>
+<h1 align="center">Santosh Durai</h1>
+<p align="center">Computer Science Student | AI & Full-Stack Developer</p>
 
 <p align="center">
   <a href="https://shantoshdurai.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=flat-square&logo=mac-os&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/santoshp123">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/shantoshdurai">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.fiverr.com/santoshp77">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+  <a href="https://www.youtube.com/@santastuffs">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 Who I Am
-I'm a computer science student passionate about building intelligent systems and creating functional products that solve real problems. I spend my time exploring the latest in AI and turning complex models into cross-platform experiences. 
-
-*"Don't let your curiosity die."*
-
-### 🚀 Featured Work
-| Project | What it does | Stack |
+### 🔥 Top Projects
+| Project | Description | Stack |
 | :--- | :--- | :--- |
-| [**ClassNow**](https://github.com/shantoshdurai/ClassNow-app) | AI-powered university class management | Flutter, Firebase, Gemini |
-| [**GhostTalker**](https://github.com/shantoshdurai/GhostTalker) | Voice cloning & TTS — talk to anyone | Python, XTTS, Flask |
-| [**Uni Chatbot**](https://github.com/shantoshdurai/university-chatbot-langchain) | RAG chatbot for university documentation | LangChain, Ollama, Llama3.1 |
-| [**Demand Forecast**](https://github.com/shantoshdurai/ai-inventory-demand-forecasting) | ML demand prediction for MSMEs | XGBoost, Prophet, Streamlit |
+| [**ClassNow**](https://github.com/shantoshdurai/ClassNow-app) | University class management with AI integration | Flutter, Firebase, Gemini API |
+| [**GhostTalker**](https://github.com/shantoshdurai/GhostTalker) | AI voice cloning & historical figure TTS engine | Python, XTTS, Flask |
+| [**Demand Forecast**](https://github.com/shantoshdurai/ai-inventory-demand-forecasting) | ML-driven inventory forecasting for MSMEs | XGBoost, Prophet |
+| [**Uni Chatbot**](https://github.com/shantoshdurai/university-chatbot-langchain) | RAG-based university chatbot built with LangChain | LangChain, Ollama |
 
-### 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, Dart, Kotlin, C++
-- **AI / ML:** TensorFlow, LangChain, scikit-learn, Pandas
-- **Frameworks:** Flutter, React, Firebase
+---
 
-<br>
+### 📊 Unique Code Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantoshdurai&layout=compact&theme=transparent&hide_border=true" width="400" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/streak-stats/?user=shantoshdurai&theme=transparent&hide_border=true" width="400" />
+</p>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shantoshdurai&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
+  "Keep Wondering. Keep Building."
 </p>
