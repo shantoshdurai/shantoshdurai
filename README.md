@@ -22,18 +22,3 @@
 | [**GhostTalker**](https://github.com/shantoshdurai/GhostTalker) | AI voice cloning & historical figure TTS engine | Python, XTTS, Flask |
 | [**Demand Forecast**](https://github.com/shantoshdurai/ai-inventory-demand-forecasting) | ML-driven inventory forecasting for MSMEs | XGBoost, Prophet |
 | [**Uni Chatbot**](https://github.com/shantoshdurai/university-chatbot-langchain) | RAG-based university chatbot built with LangChain | LangChain, Ollama |
-
----
-
-### 📊 Unique Code Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantoshdurai&layout=compact&theme=transparent&hide_border=true" width="400" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/streak-stats/?user=shantoshdurai&theme=transparent&hide_border=true" width="400" />
-</p>
-
----
-
-<p align="center">
-  "Keep Wondering. Keep Building."
-</p>
