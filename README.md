@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Creative Suite
 
 <table>
   <tr>
@@ -53,10 +53,6 @@
       <br>Firebase
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite" />
-      <br>SQLite
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
       <br>Git
     </td>
@@ -68,6 +64,32 @@
       <img src="https://skillicons.dev/icons?i=blender" width="40" height="40" alt="Blender" />
       <br>Blender
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=unity" width="40" height="40" alt="Unity" />
+      <br>Unity
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=unreal" width="40" height="40" alt="Unreal Engine" />
+      <br>Unreal
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pr" width="40" height="40" alt="Premiere Pro" />
+      <br>Premiere
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ae" width="40" height="40" alt="After Effects" />
+      <br>After Effects
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ps" width="40" height="40" alt="Photoshop" />
+      <br>Photoshop
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
+      <br>Figma
+    </td>
   </tr>
 </table>
 
@@ -78,7 +100,7 @@
 | [**ClassNow**](https://github.com/shantoshdurai/ClassNow-app) | University class management with AI integration | Flutter, Firebase, Gemini API |
 | [**GhostTalker**](https://github.com/shantoshdurai/GhostTalker) | AI voice cloning & historical figure TTS engine | Python, XTTS, Flask |
 | [**Demand Forecast**](https://github.com/shantoshdurai/ai-inventory-demand-forecasting) | ML-driven inventory forecasting for MSMEs | XGBoost, Prophet |
-| [**3D Archive**](https://github.com/shantoshdurai/3D-Blender-Archive) | High-fidelity 3D renders & architectural assets | Blender, Cycles |
+| [**3D Archive**](https://github.com/shantoshdurai/3D-Blender-Archive) | High-fidelity 3D renders & architectural assets | Blender, Unity, Unreal |
 
 ---
 
