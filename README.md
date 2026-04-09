@@ -24,6 +24,16 @@ Python · JavaScript · React · FastAPI · Flutter · Firebase · Blender · Un
 
 ---
 
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shantoshdurai&theme=onedark" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shantoshdurai&bg_color=1F222E&color=F8D866&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
 ### 📂 My Repositories
 
 Browse my projects on [GitHub](https://github.com/shantoshdurai) or visit my [projects page](https://shantoshdurai.github.io)
