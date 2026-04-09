@@ -1,7 +1,8 @@
 ### Hey, I'm Santosh Durai! 👋
 
-CS student from Tamil Nadu building AI tools that actually ship — RAG chatbots, voice cloning apps, CNN classifiers, and Flutter apps in production.  
-Can't stop wondering, can't stop building.
+Hi, I'm Santosh
+Software Engineer specializing in Full-Stack Development and AI.
+I love making videos about tech & AI Based in Trichy, India.
 
 ---
 
