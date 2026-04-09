@@ -40,10 +40,4 @@ I love making videos about tech & AI Based in Trichy, India.
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shantoshdurai/shantoshdurai/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shantoshdurai/shantoshdurai/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/shantoshdurai/shantoshdurai/output/github-contribution-grid-snake.svg" />
-</picture>
-
 </div>
