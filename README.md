@@ -1,51 +1,48 @@
-<h1 align="center">Santosh Durai</h1>
-<p align="center">Computer Science Student · AI Architect · Full-Stack Developer</p>
+### Hey, I'm Santosh Durai! 👋
 
-<p align="center">
-  <a href="https://shantoshdurai.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=flat-square&logo=mac-os&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/shantoshdurai">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/@santastuffs">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://github.com/shantoshdurai">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+CS student from Tamil Nadu building AI tools that actually ship — RAG chatbots, voice cloning apps, CNN classifiers, and Flutter apps in production.  
+Can't stop wondering, can't stop building.
 
 ---
 
-### 🛠️ Tech Stack
+**🛠️ Tech I work with:**
 
-Python · JavaScript · React · FastAPI · Flutter · Firebase · Blender · Unity · Unreal Engine
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+<img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shantoshdurai&theme=onedark" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shantoshdurai&bg_color=1F222E&color=F8D866&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
-
----
-
-### 📂 My Repositories
-
-Browse my projects on [GitHub](https://github.com/shantoshdurai) or visit my [projects page](https://shantoshdurai.github.io)
+<br/><br/>
 
 ---
 
-### 📧 Get In Touch
-
-- **Email:** Shantoshdurai06@gmail.com
-- **LinkedIn:** [shantoshdurai](https://linkedin.com/in/shantoshdurai)
-- **YouTube:** [@santastuffs](https://www.youtube.com/@santastuffs)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://shantoshdurai.github.io)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@santastuffs)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shantoshdurai)
 
 ---
 
-Made with ❤️ by Santosh
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shantoshdurai&theme=transparent&hide_border=true&ring=7541AC&fire=f9a8d4&currStreakLabel=7541AC&sideLabels=7541AC&dates=888" alt="GitHub Streak" />
+
+<br/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=shantoshdurai&show_icons=true&theme=transparent&hide_border=true&title_color=7541AC&icon_color=f9a8d4&text_color=666" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantoshdurai&layout=compact&theme=transparent&hide_border=true&title_color=7541AC&text_color=666&langs_count=6" />
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shantoshdurai/shantoshdurai/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shantoshdurai/shantoshdurai/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/shantoshdurai/shantoshdurai/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
