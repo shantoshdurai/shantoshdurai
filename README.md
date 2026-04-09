@@ -11,39 +11,31 @@
   <a href="https://www.youtube.com/@santastuffs">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
+  <a href="https://github.com/shantoshdurai">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
-### 🚀 Featured: [Academix — AI University Portal](https://github.com/shantoshdurai/university-chatbot-langchain)
-> Production-grade AI portal with RAG, Vision OCR, and specialized academic modes.
-- **Tech:** React · FastAPI · LangChain · Groq (Llama-3.3-70b) · Vercel
-- **✨ [Live Demo](https://university-chatbot-langchain.vercel.app)**
+### 🛠️ Tech Stack
+
+Python · JavaScript · React · FastAPI · Flutter · Firebase · Blender · Unity · Unreal Engine
 
 ---
 
-### 🛠️ Tech Stack & Creative Suite
+### 📂 My Repositories
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,react,fastapi,flutter,firebase,git,vercel,blender,unity,unreal,figma,pr,ae,ps&perline=5" alt="Tech Stack" />
-</p>
+Browse my projects on [GitHub](https://github.com/shantoshdurai) or visit my [projects page](https://shantoshdurai.github.io)
 
 ---
 
-### 🔥 Active Projects
+### 📧 Get In Touch
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| [**Academix Portal**](https://github.com/shantoshdurai/university-chatbot-langchain) | RAG AI with Vision & Exam Modes | LangChain · Llama-3.3 · FastAPI |
-| [**ClassNow**](https://github.com/shantoshdurai/ClassNow-app) | University class management + AI | Flutter · Firebase · Gemini |
-| [**3D Archive**](https://github.com/shantoshdurai/3D-Blender-Archive) | High-fidelity 3D renders & architectural assets | Blender · Unity · Unreal |
+- **Email:** Shantoshdurai06@gmail.com
+- **LinkedIn:** [shantoshdurai](https://linkedin.com/in/shantoshdurai)
+- **YouTube:** [@santastuffs](https://www.youtube.com/@santastuffs)
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shantoshdurai&theme=onedark" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shantoshdurai&bg_color=1F222E&color=F8D866&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
+Made with ❤️ by Santosh
