@@ -32,3 +32,13 @@ I love making videos about tech & AI. Based in Trichy, India.
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+---
+
+## 📂 Featured Projects
+
+- **[React-portfolio](https://github.com/shantoshdurai/React-portfolio)** - Projects showcase with dynamic GitHub project timeline
+- **[Polidario Portfolio](https://github.com/shantoshdurai/portfolio)** - Full-stack portfolio with React + Vite
+- **[Academix Portal](https://github.com/shantoshdurai/university-chatbot-langchain)** - RAG-based university AI chatbot
+- **[ClassNow](https://github.com/shantoshdurai/ClassNow-app)** - University class management with AI
+- **[3D Archive](https://github.com/shantoshdurai/3D-Blender-Archive)** - High-fidelity 3D renders & architectural assets
