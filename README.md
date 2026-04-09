@@ -25,7 +25,7 @@ I love making videos about tech & AI. Based in Trichy, India.
   <a href="https://shantoshdurai.github.io">
     <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/shantoshdurai/React-portfolio">
+  <a href="https://shantoshdurai.github.io/React-portfolio/">
     <img src="https://img.shields.io/badge/PROJECTS-4A90E2?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
   </a>
   <a href="https://www.youtube.com/@santastuffs">
