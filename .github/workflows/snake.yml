@@ -4,41 +4,20 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
       - uses: Platane/snk@v3
-        id: snake-svg
         with:
           github_user_name: shantoshdurai
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-pages-artifact@v2
         with:
-          name: snake-svg
           path: dist
 
-      - name: Push to output branch
-        run: |
-          cd dist
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git init
-          git add .
-          git commit -m "Generate snake animation"
-          git push -f https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/shantoshdurai/shantoshdurai.git HEAD:output
+      - uses: actions/deploy-pages@v2
