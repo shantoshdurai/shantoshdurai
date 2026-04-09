@@ -22,22 +22,10 @@ I love making videos about tech & AI Based in Trichy, India.
 <br/><br/>
 
 ---
-
+<div align="center">
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://shantoshdurai.github.io)
 [![YouTube](https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@santastuffs)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shantoshdurai)
-
+</div>
 ---
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shantoshdurai&theme=transparent&hide_border=true&ring=7541AC&fire=f9a8d4&currStreakLabel=7541AC&sideLabels=7541AC&dates=888" alt="GitHub Streak" />
-
-<br/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=shantoshdurai&show_icons=true&theme=transparent&hide_border=true&title_color=7541AC&icon_color=f9a8d4&text_color=666" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantoshdurai&layout=compact&theme=transparent&hide_border=true&title_color=7541AC&text_color=666&langs_count=6" />
-
-<br/>
-
-</div>
