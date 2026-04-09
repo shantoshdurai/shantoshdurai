@@ -9,6 +9,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
       - uses: Platane/snk@v3
         with:
           github_user_name: shantoshdurai
