@@ -1,43 +1,28 @@
-### Hey, I'm Santosh Durai! 👋
+<h1 align="center">Hey, I'm Santosh Durai! 👋</h1>
 
-Hi, I'm Santosh
-Software Engineer specializing in Full-Stack Development and AI.
-I love making videos about tech & AI Based in Trichy, India.
-
----
-
-**🛠️ Tech I work with:**
-
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
-<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
-
-<br/><br/>
+<p align="center">
+Software Engineer specializing in Full-Stack Development and AI.<br/>
+I love making videos about tech & AI. Based in Trichy, India.
+</p>
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://shantoshdurai.github.io)
-[![YouTube](https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@santastuffs)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shantoshdurai)
+<h3 align="center">🛠️ Tech I work with:</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,react,fastapi,flutter,firebase,git,vercel,blender,unity,unreal&perline=5" alt="Tech Stack" />
+</p>
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shantoshdurai&theme=transparent&hide_border=true&ring=7541AC&fire=f9a8d4&currStreakLabel=7541AC&sideLabels=7541AC&dates=888" alt="GitHub Streak" />
-
-<br/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=shantoshdurai&show_icons=true&theme=transparent&hide_border=true&title_color=7541AC&icon_color=f9a8d4&text_color=666" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantoshdurai&layout=compact&theme=transparent&hide_border=true&title_color=7541AC&text_color=666&langs_count=6" />
-
-<br/>
-
-</div>
+<p align="center">
+  <a href="https://shantoshdurai.github.io">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.youtube.com/@santastuffs">
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://linkedin.com/in/shantoshdurai">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
