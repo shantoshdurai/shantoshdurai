@@ -25,7 +25,7 @@ I love making videos about tech & AI. Based in Trichy, India.
   <a href="https://shantoshdurai.github.io/portfolio/">
     <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://shantoshdurai.github.io">
+  <a href="https://shantoshdurai.github.io/">
     <img src="https://img.shields.io/badge/PROJECTS-4A90E2?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
   </a>
   <a href="https://www.youtube.com/@santastuffs">
@@ -34,4 +34,26 @@ I love making videos about tech & AI. Based in Trichy, India.
   <a href="https://www.linkedin.com/in/santoshp123/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</p>
+
+---
+
+### 🔥 Active Projects
+
+| Project | Description | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| [**GhostTalker**](https://github.com/shantoshdurai/GhostTalker) | Zero-shot voice cloning with F5-TTS | Python · HuggingFace | [Demo](https://huggingface.co/spaces/Santoshp123/GhostTalker) |
+| [**Academix Portal**](https://github.com/shantoshdurai/university-chatbot-langchain) | RAG AI with Vision & Exam Modes | LangChain · Llama-3.3 · FastAPI | [Demo](https://university-chatbot-langchain.vercel.app) |
+| [**ClassNow**](https://github.com/shantoshdurai/ClassNow-app) | University class management + AI | Flutter · Firebase · Gemini | — |
+| [**Flower Classifier**](https://github.com/shantoshdurai/flower-species-classifier) | CNN image classification via MobileNetV2 | Python · TensorFlow | [Demo](https://santoshp123-flower-species-classifiers.hf.space/) |
+| [**3D Archive**](https://github.com/shantoshdurai/3D-Blender-Archive) | High-fidelity 3D renders & architectural assets | Blender | [Explore](https://shantoshdurai.github.io/) |
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shantoshdurai&theme=onedark" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shantoshdurai&bg_color=1F222E&color=F8D866&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
