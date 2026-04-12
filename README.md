@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Santosh Durai! 👋</h1>
+<h1 align="center">Hey, I'm Santosh! 👋</h1>
 
 <p align="center">
 Software Engineer specializing in Full-Stack Development and AI.<br/>
