@@ -2,8 +2,14 @@
 
 # Hi, I'm Santosh! ʕ•́ᴥ•̀ʔっ
 
-*Software Engineer ✨ AI Enthusiast ✨ Full-Stack Developer*  
-Based in Trichy, India 🌿 Can't stop wondering, can't stop building.
+*Software Engineer ✨ AI Enthusiast ✨ Full-Stack Developer*
+
+<br>
+
+🔭 I'm an undergrad Software Engineer at DSU, pursuing a B.Tech in AI-DS.<br>
+🌱 My research interests include LLM Reasoning, AI Agents, and Multimodal Learning.<br>
+📫 Reach me at: [shantoshdurai06@gmail.com](mailto:shantoshdurai06@gmail.com)<br>
+📍 Based in Trichy, India.
 
 <br>
 
@@ -23,25 +29,6 @@ Based in Trichy, India 🌿 Can't stop wondering, can't stop building.
 <img src="https://img.shields.io/badge/Flutter-bae1ff?style=flat-square&logo=flutter&logoColor=black" />
 <img src="https://img.shields.io/badge/Firebase-ffdfba?style=flat-square&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Blender-ffb3ba?style=flat-square&logo=blender&logoColor=black" />
-
-<br><br>
-
-### 🌸 My Projects
-
-**[GhostTalker](https://github.com/shantoshdurai/GhostTalker)**  
-*Zero-shot voice cloning with F5-TTS* 👻
-
-**[Academix Portal](https://github.com/shantoshdurai/university-chatbot-langchain)**  
-*RAG AI with Vision & Exam Modes* 🎓
-
-**[ClassNow](https://github.com/shantoshdurai/ClassNow-app)**  
-*University class management + AI* 📚
-
-**[Flower Classifier](https://github.com/shantoshdurai/flower-species-classifier)**  
-*CNN image classification via MobileNetV2* 🌻
-
-**[3D Archive](https://github.com/shantoshdurai/3D-Blender-Archive)**  
-*High-fidelity 3D renders & architectural assets* 🧊
 
 <br><br>
 
