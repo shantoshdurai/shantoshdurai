@@ -6,10 +6,10 @@
 
 <br>
 
-🔭 I'm an undergrad Software Engineer at DSU, pursuing a B.Tech in AI-DS.<br>
-🌱 My research interests include LLM Reasoning, AI Agents, and Multimodal Learning.<br>
-📫 Reach me at: [shantoshdurai06@gmail.com](mailto:shantoshdurai06@gmail.com)<br>
-📍 Based in Trichy, India.
+ I'm an undergrad Software Engineer at DSU, pursuing a B.Tech in AI-DS.<br>
+ My research interests include LLM Reasoning, AI Agents, and Multimodal Learning.<br>
+~ Reach me at: [shantoshdurai06@gmail.com](mailto:shantoshdurai06@gmail.com)<br>
+ Based in Trichy, India.
 
 <br>
 
