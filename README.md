@@ -1,8 +1,8 @@
-<div align="center">
+﻿<div align="center">
 
-# Hi, I'm Santosh! ʕ•́ᴥ•̀ʔっ
+# Hi, I'm Santosh! Ê•â€¢Ìá´¥â€¢Ì€Ê”ã£
 
-*Software Engineer ✨ AI Enthusiast ✨ Full-Stack Developer*
+*Software Engineer âœ¨ AI Enthusiast âœ¨ Full-Stack Developer*
 
 <br>
 
@@ -22,7 +22,7 @@
 
 <br><br>
 
-### ☁️ Tech Stack
+### â˜ï¸ Tech Stack
 
 <img src="https://img.shields.io/badge/Python-bae1ff?style=flat-square&logo=python&logoColor=black" />
 <img src="https://img.shields.io/badge/JavaScript-ffffba?style=flat-square&logo=javascript&logoColor=black" />
@@ -34,9 +34,9 @@
 
 <br><br>
 
-### ✨ GitHub Activity
+### âœ¨ GitHub Activity
 <a href="https://github.com/shantoshdurai">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shantoshdurai&bg_color=transparent&color=ffb3ba&line=ffb3ba&point=ffffff&area=true&hide_border=true&hide_title=true" alt="Activity Graph">
+  <img src="activity-graph.svg" alt="Activity Graph" width="100%">
 </a>
 
 </div>
