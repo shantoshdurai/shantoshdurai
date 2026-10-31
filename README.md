@@ -2,8 +2,8 @@
 
   <a href="https://github.com/shantoshdurai">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-      <img alt="Santosh's GitHub Profile README" src="light_mode.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shantoshdurai/shantoshdurai/main/dark_mode.svg">
+      <img alt="Santosh Durai's Profile README" src="https://raw.githubusercontent.com/shantoshdurai/shantoshdurai/main/light_mode.svg">
     </picture>
   </a>
 
