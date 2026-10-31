@@ -14,10 +14,4 @@
   <a href="https://www.youtube.com/@santastuffs"><img src="https://img.shields.io/badge/YouTube-ffffba?style=for-the-badge&logo=youtube&logoColor=black" /></a>
   <a href="https://www.linkedin.com/in/santoshp123/"><img src="https://img.shields.io/badge/LinkedIn-baffc9?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
 
-  <br><br>
-
-  <a href="https://github.com/shantoshdurai">
-    <img src="activity-graph.svg" alt="Activity Graph">
-  </a>
-
 </div>
