@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1080px" height="545px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1080px" height="545px" fill="#161b22" rx="15"/>
+<text x="15" y="20.0" fill="#c9d1d9" class="ascii" font-size="5.7px">
+<tspan x="15" y="20.0">                                                   ...,\/|!//,..</tspan>
+<tspan x="15" y="28.1">                                              ,:::;!/\/||!:,:\///!::.</tspan>
+<tspan x="15" y="36.2">                                             :()(\\/\||!:|;:,:;!/|;:!;:.,.</tspan>
+<tspan x="15" y="44.3">                                         .,;|/)\||//\)!:::;:;;.,:!;:.!|:!:::.</tspan>
+<tspan x="15" y="52.4">                                       ,!)(!/[|:;!!|::,.   ...  .,,:,!|;;::::;.</tspan>
+<tspan x="15" y="60.5">                                     .!\|::,(;.:!!,    ,::,,        ,:::.!!::;:,.</tspan>
+<tspan x="15" y="68.6">                                    ,|\|!,.;:.,,:   ..,;;,...      .:.:,,::,..:::.</tspan>
+<tspan x="15" y="76.7">                                   .||\//!:,,,::,                .:;,,,,:. ...::;:,</tspan>
+<tspan x="15" y="84.8">                                  ,||!|;:,..,,::.       .,       ,....,,......:,:!!:</tspan>
+<tspan x="15" y="92.9">                                  .!/;,!!.....,:,,. ::::|:;)(\|:.   ...,,.  .,..,!;,</tspan>
+<tspan x="15" y="101.0">                                  .!!:,.,:.. ..::,.!)(\}ifxkkhxuf{(;   .  ,:,...::,:.</tspan>
+<tspan x="15" y="109.1">                                  ,||:,;:,...    :[itJYakppqqpdbkhxJ}|.  ..,...,,.::</tspan>
+<tspan x="15" y="117.2">                                  .:/|:..,..  .|iuxYkbdppppqqqpbdkhaxzi|.   .,,,,;;.</tspan>
+<tspan x="15" y="125.3">                                   ,!!. . ...(LxaahkbkbbbdpqqppdbkhYxvuC[.    .,!:.</tspan>
+<tspan x="15" y="133.4">                                   ,/::,.,, )YhhkkpqwZ0ZZZZZZmmmwwqdkaxuC!   ..,:</tspan>
+<tspan x="15" y="141.5">                                    ,/:;,.  zxf{])\/)tvdZQWWWQ0Zqkaxxxxvv]  ..:;.</tspan>
+<tspan x="15" y="149.6">                                     ,;.;)!LutfLJJCL{[iLzYbphhhvt[\///\\]{ .,,:.</tspan>
+<tspan x="15" y="157.7">                                     ,L]!(CdfzutitJhuC{}L()t:}{]}fxxtttt\hx(!!.</tspan>
+<tspan x="15" y="165.8">                                     fuka,uWikzi}L[]Lztzttbpu{t[ff{)}([f{bku[|</tspan>
+<tspan x="15" y="173.9">                                     zaqk:{OdwdbhaYxxxYLLqmmqL}JJJffzLfJLO#CL{</tspan>
+<tspan x="15" y="182.0">                                     tdph\ChhhhbbkaYYxtzpmZ0mbfivxxxYaaYhpzLvt</tspan>
+<tspan x="15" y="190.1">                                     |khktipbddppdbkavbwm0OWOmpvCzvxxxxvxJ\kY!</tspan>
+<tspan x="15" y="198.2">                                      JbaYLhdqwZZ0ZZqpwbbZWQOqhqbkwqpdbkhuzht</tspan>
+<tspan x="15" y="206.3">                                      :YppkYkbpqwwwqdhvCxhbhYzfCxbpppdbhavuv:</tspan>
+<tspan x="15" y="214.4">                                        /)]YhkbbddbdbdpqwwppdhahahhhkkhYxYh}</tspan>
+<tspan x="15" y="222.5">                                           JbkkbkkaaahahkkkbhavxxxxYahYYf!:</tspan>
+<tspan x="15" y="230.6">                                           |ahkkkhaYxuvYahhaYuJLfzuvYxxx/</tspan>
+<tspan x="15" y="238.7">                                            )Yahhaakdppppdddbkhhhxuvxxu\</tspan>
+<tspan x="15" y="246.8">                                            ,YYahaaahkbdbhkkahhYxvvvvuf</tspan>
+<tspan x="15" y="254.9">                                            :YaYxahkkkbdqmmwpkaYYxuzzut</tspan>
+<tspan x="15" y="263.0">                                            ;YhhYvxabdpdddbbbbhaxCCzvxC</tspan>
+<tspan x="15" y="271.1">                                            ;akbbhxvvvvvuzzzzuuJCzxYYYv:</tspan>
+<tspan x="15" y="279.2">                                          .|}hbdddkhaxvvvuJCCJzuxahhaaxt/|;.</tspan>
+<tspan x="15" y="287.3">                                        :JbzYhbdppddbhhabbaYYYxYhbkkhaxuvxuhv[!</tspan>
+<tspan x="15" y="295.4">                                    :{xpW@hJahbdpppppbkkhhahhahbddbkhaYvvvJu@@#wxt.</tspan>
+<tspan x="15" y="303.5">                                !]uqQ@@@@&amp;0xkkkbdppqppddddbbkkbdddbkhaaYahuq&amp;&amp;@@@@0wY}|:</tspan>
+<tspan x="15" y="311.6">                           .\tam#@@@@&amp;&amp;&amp;&amp;&amp;@Zahbbbkbdppdkhhhhhkbdbkhhkhhhaxp@&amp;&amp;&amp;&amp;&amp;&amp;@@@@&amp;Qmzi;</tspan>
+<tspan x="15" y="319.7">                       :{ub0&amp;@@@@&amp;&amp;&amp;&amp;@@@@@&amp;@WdahbbkkbdbkhhhkkkbkhhhbbbhYh0@&amp;@@@@&amp;&amp;&amp;&amp;&amp;&amp;@@@@@#ZkJ[:</tspan>
+<tspan x="15" y="327.8">                  .!ChmW@@@@@&amp;&amp;&amp;&amp;@@@&amp;@@@@@@&amp;@@QqbbbkkbpdbbdddppbkbbbkhbZ&amp;@&amp;@@@@@&amp;&amp;&amp;@@@&amp;&amp;&amp;&amp;&amp;@@@@@WwkC\,</tspan>
+<tspan x="15" y="335.9">              .:}b0#@@@@&amp;&amp;&amp;&amp;@@&amp;&amp;&amp;@@@@@@@@@@@&amp;&amp;@@&amp;QmqdbdbkbdddbbbbbdqZW@@@&amp;@@@@@@@@@@@@@@@@@&amp;&amp;&amp;&amp;&amp;@@@@@OpC)</tspan>
+<tspan x="15" y="344.0">            ;z0W@@@@&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;@@@@@@@@@@@@@@@@@@&amp;&amp;@@@@&amp;WQ0ZmmmmZ0OQ#&amp;@@@&amp;&amp;@@@@@@@@@@@@@@@@@@@@@@@@&amp;&amp;&amp;&amp;@@@@@pf</tspan>
+<tspan x="15" y="352.1">         .)hW@@@&amp;&amp;&amp;&amp;@@@@@@&amp;&amp;&amp;@@@@@@@@@@@@@@@@@@@@&amp;&amp;@@@@@@@@@@@@@@@@&amp;&amp;&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&amp;&amp;&amp;&amp;&amp;@@ZJ:</tspan>
+<tspan x="15" y="360.2">        |p@@@&amp;&amp;&amp;@&amp;&amp;@@@@@@@@@&amp;&amp;@@@@@@@@@@@@@@@@@@@@@@@&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@&amp;@@@@@@@@@@&amp;&amp;@@h</tspan>
+<tspan x="15" y="368.3">       :O@&amp;&amp;&amp;@@@@@&amp;&amp;@&amp;@@@@@@@&amp;&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&amp;@@@@@@&amp;&amp;@@@@&amp;&amp;#i</tspan>
+<tspan x="15" y="376.4">      ,m@&amp;@@@@&amp;@@@@@@&amp;&amp;@@@@@@@&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&amp;&amp;@@@@&amp;&amp;@@@@&amp;&amp;&amp;&amp;#\</tspan>
+<tspan x="15" y="384.5">      q@&amp;@@@@@&amp;&amp;@@@@@#&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&amp;&amp;@@@@#&amp;@@&amp;&amp;&amp;&amp;&amp;#@w:</tspan>
+<tspan x="15" y="392.6">     C@&amp;@@@&amp;&amp;@@&amp;&amp;@@@@&amp;&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#&amp;@@&amp;W&amp;@&amp;&amp;@#&amp;&amp;#&amp;@p</tspan>
+<tspan x="15" y="400.7">    |#&amp;&amp;@@@@&amp;&amp;@&amp;&amp;&amp;@&amp;&amp;&amp;&amp;&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&amp;&amp;@@&amp;#@&amp;&amp;@#&amp;@&amp;&amp;&amp;&amp;&amp;[</tspan>
+<tspan x="15" y="408.8">   .w@&amp;@@@@@&amp;#&amp;@&amp;&amp;@&amp;&amp;@&amp;&amp;@@@@@&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&amp;#@@#&amp;&amp;&amp;@&amp;W&amp;@&amp;#&amp;&amp;@Q|.</tspan>
+<tspan x="15" y="416.9">   v@&amp;@@@@@@@&amp;#&amp;@&amp;&amp;@&amp;@@&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#&amp;@##&amp;@@W#@@&amp;#&amp;@&amp;@z</tspan>
+<tspan x="15" y="425.0">  /&amp;&amp;&amp;@@@@@@@@&amp;W&amp;@#&amp;&amp;&amp;@@&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#&amp;@W&amp;@@##@@@#&amp;&amp;@&amp;&amp;QC</tspan>
+<tspan x="15" y="433.1">;.a@&amp;@@@@@@@@&amp;@&amp;W#@##&amp;@@&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#&amp;&amp;Q&amp;@&amp;W&amp;@@&amp;#&amp;&amp;@@@@@</tspan>
+<tspan x="15" y="441.2">.u@&amp;@@@@@@@@@@&amp;@&amp;O#&amp;Q&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&amp;&amp;@@#&amp;Q0&amp;&amp;W#@@@&amp;#&amp;@@@@&amp;&amp;</tspan>
+<tspan x="15" y="449.3"> k@&amp;@@@@@@@@@@&amp;&amp;@&amp;Z&amp;0Z@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&amp;&amp;&amp;&amp;&amp;&amp;@@##m#&amp;W#@@@&amp;#&amp;&amp;@@@@@@</tspan>
+<tspan x="15" y="457.4">;O@&amp;@@@@@@@@&amp;&amp;@&amp;&amp;@#Z&amp;qW@&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&amp;&amp;&amp;&amp;&amp;@@&amp;&amp;ZO@W#@@@@#&amp;&amp;@@@@@@@</tspan>
+<tspan x="15" y="465.5">Q&amp;@@@@@@@@@@@&amp;&amp;@&amp;&amp;@O0#O@&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&amp;&amp;&amp;&amp;@@@@Oq&amp;#W&amp;@@@&amp;#&amp;@@@@@@@@</tspan>
+<tspan x="15" y="473.6">&amp;@@@@@@@@@@@@@&amp;&amp;&amp;&amp;&amp;@OOW&amp;@@@@@@@@@@&amp;@@@@@@@@@@@@@@@@@@@@@@@&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&amp;#&amp;&amp;@@@#dO#W&amp;@@@&amp;#&amp;@@@@@@@@@</tspan>
+<tspan x="15" y="481.7">&amp;@@@@@@@@@@@@@@&amp;&amp;&amp;&amp;&amp;@OwW@&amp;@@@@@@@&amp;&amp;@@@@@@@@@@@@@@&amp;&amp;@@@@@@&amp;&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&amp;#&amp;@&amp;@mp#W&amp;@@@&amp;&amp;@@&amp;@@@@@@@@</tspan>
+<tspan x="15" y="489.8">&amp;@@@@@@@@@@@@@@@&amp;&amp;&amp;&amp;&amp;@md@&amp;@@@@@@@&amp;&amp;@@@@@@@@@@@@&amp;&amp;&amp;@@@@@@@&amp;&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&amp;&amp;&amp;@@&amp;w0W&amp;@@@&amp;&amp;&amp;@@@@@@@@@@@</tspan>
+<tspan x="15" y="497.9">&amp;@@@@@@@@@@@@@@@@&amp;#&amp;&amp;#&amp;pZ@&amp;@@@@@&amp;&amp;@@@@@@@@@@@@&amp;&amp;&amp;@@@@@@@@&amp;@@@@@@@@@@@@@@@@@@@@@@@@@&amp;@@@@@&amp;#&amp;@@#m0W&amp;@@@&amp;&amp;@@@@@@@@&amp;&amp;&amp;&amp;</tspan>
+<tspan x="15" y="506.0">&amp;@@@@@@@@@@@@@@&amp;@@&amp;#&amp;#W0q@&amp;@@@@&amp;&amp;@@@@@@@@@@@&amp;&amp;&amp;&amp;@@@@@@@@@&amp;@@@@@@@@@@@@@@@@@@@@@@@@&amp;@@@@@@&amp;#&amp;&amp;@Op0W&amp;&amp;&amp;&amp;&amp;@&amp;&amp;&amp;&amp;&amp;&amp;&amp;@@@@@</tspan>
+<tspan x="15" y="514.1">@@@@@@@@@@@@@@@@&amp;&amp;&amp;###OZw@&amp;@@@@&amp;&amp;@@@@@@@@@@@&amp;&amp;&amp;&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&amp;@@@@@@&amp;&amp;#&amp;@db0W&amp;&amp;&amp;&amp;@@@@@@@@@&amp;&amp;&amp;&amp;#</tspan>
+<tspan x="15" y="522.2">Q####&amp;@@@@@@@@@@@@@&amp;##Qwd@@@@&amp;&amp;&amp;&amp;@@@@@@@@@@&amp;&amp;&amp;&amp;@@@@@@@@@&amp;&amp;@@@@@@@@@@@@@@@@@@@@@@@@&amp;&amp;@@@@@&amp;&amp;#&amp;#vb0W&amp;@@@@@@&amp;QZqhbv\[[)</tspan>
+</text>
+<text x="475" y="30" fill="#c9d1d9">
+<tspan x="475" y="30">shantosh@durai</tspan> -——————————————————————————————————————————-—-
+<tspan x="475" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 11, Android, Linux</tspan>
+<tspan x="475" y="70" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Full-Stack &amp; AI Developer</tspan>
+<tspan x="475" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">DSU (B.Tech AI &amp; DS)</tspan>
+<tspan x="475" y="110" class="cc">. </tspan><tspan class="key">Intern</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Maac Technologies</tspan>
+<tspan x="475" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VS Code, Android Studio</tspan>
+<tspan x="475" y="150" class="cc">. </tspan>
+<tspan x="475" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Python, JavaScript, Dart</tspan>
+<tspan x="475" y="190" class="cc">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">React, Flutter, FastAPI, LangChain</tspan>
+<tspan x="475" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">English, Tamil, Hindi</tspan>
+<tspan x="475" y="230" class="cc">. </tspan>
+<tspan x="475" y="250" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">LLM Reasoning, AI Agents</tspan>
+<tspan x="475" y="270" class="cc">. </tspan><tspan class="key">Creative</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Blender, Manim Animation</tspan>
+<tspan x="475" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="475" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">shantoshdurai06@gmail.com</tspan>
+<tspan x="475" y="350" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">shantoshdurai.github.io/portfolio</tspan>
+<tspan x="475" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">santoshp123</tspan>
+<tspan x="475" y="390" class="cc">. </tspan><tspan class="key">YouTube</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">@santastuffs (161 subs)</tspan>
+<tspan x="475" y="410" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Trichy, India</tspan>
+<tspan x="475" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
+<tspan x="475" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">26</tspan> {<tspan class="key">Public</tspan>: <tspan class="value">26</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">4</tspan>
+<tspan x="475" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">876</tspan> | <tspan class="key">Subscribers</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">161</tspan>
+<tspan x="475" y="510" class="cc">. </tspan><tspan class="key">Top Projects</tspan>:<tspan class="cc">. </tspan><tspan class="value">TouchPlay, Letterbook, Phone-Local-Agent</tspan>
+</text>
+</svg>
